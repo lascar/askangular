@@ -1,0 +1,25 @@
+== README
+
+For yet i follow the tutorial http://angular-rails.com/bootstrap.html by David Bryant Copeland
+
+* Ruby version
+
+ruby 2.1.3p242 (2014-09-19 revision 47630) [x86_64-linux]
+
+* System dependencies
+
+Rails 4.1.8
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+

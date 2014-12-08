@@ -1,0 +1,2 @@
+askangular = angular.module('askangular',[
+])
