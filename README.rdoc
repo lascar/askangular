@@ -1,5 +1,7 @@
 == README
 
+Deployed en heroku : https://floating-shore-3707.herokuapp.com
+
 For yet i follow the tutorial http://angular-rails.com/bootstrap.html by David Bryant Copeland
 
 * Ruby version
